@@ -81,8 +81,8 @@ To use this class, you must first register as a Webdienstnutzer/Marktakteur on t
 Once you have registered, you will receive a _marktakteurMastrNummer_ and an _apiKey_, which you can use to access the API. To do this, you need to create a `.env` file in `./examples/` with your credentials as shown below. 
 
 ```text
-  MARKTAKTEUR_NUMMER="YOUR_MARKTAKTEUR_NUMMER"
-  API_KEY="YOUR_API_KEY"
+MARKTAKTEUR_NUMMER="YOUR_MARKTAKTEUR_NUMMER"
+API_KEY="YOUR_API_KEY"
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
