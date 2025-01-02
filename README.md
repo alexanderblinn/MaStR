@@ -94,7 +94,7 @@ API_KEY="YOUR_API_KEY"
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-See `main.py` to learn how to use the MarktstammdatenregisterAPI class.
+See `./examples/` to learn how to use the MarktstammdatenregisterAPI class.
 
 _For more information, check the official [website](https://www.marktstammdatenregister.de/MaStRHilfe/subpages/webdienst.html) and the official [documentation](https://www.marktstammdatenregister.de/MaStRHilfe/files/webdienst/Funktionen_MaStR_Webdienste_V1.2.87.html)._
 
@@ -136,8 +136,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Project Link: [https://github.com/alexanderblinn/mastr_api](https://github.com/alexanderblinn/mastr_api)
-
-E-Mail: [alexander.blinn@outlook.de](alexander.blinn@outlook.de)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
